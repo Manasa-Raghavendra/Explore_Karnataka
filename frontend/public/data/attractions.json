@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "name": "Hampi UNESCO Heritage Site",
+    "category": "Cultural",
+    "description": "Hampi, a UNESCO World Heritage Site, is an ancient village in Karnataka known for its fascinating ruins from the Vijayanagara Empire. The architectural marvels, boulder-strewn landscapes, and rich history make it one of India's most captivating destinations.",
+    "eco_score": 85,
+    "latitude": 15.3350,
+    "longitude": 76.4600,
+    "images": [
+      "https://images.unsplash.com/photo-1609920658906-8223bd289001?w=800",
+      "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800",
+      "https://images.unsplash.com/photo-1609920821776-36d11e3ac24f?w=800"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/7ZWaWrvJ7_I"
+    ],
+    "audio_story_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "tags": ["Heritage", "Architecture", "History", "UNESCO"],
+    "best_season": "October to February",
+    "map_url": "https://www.google.com/maps?q=15.3350,76.4600",
+    "ar_model_url": "https://modelviewer.dev/shared-assets/models/Astronaut.glb"
+  },
+  {
+    "id": "2",
+    "name": "Coorg Coffee Plantations",
+    "category": "Eco",
+    "description": "Known as the 'Scotland of India', Coorg is a picturesque hill station famous for its sprawling coffee plantations, misty hills, and lush greenery. Experience sustainable coffee farming, nature walks, and breathtaking waterfalls.",
+    "eco_score": 92,
+    "latitude": 12.3375,
+    "longitude": 75.8069,
+    "images": [
+      "https://images.unsplash.com/photo-1559496417-e7f25c62c5a6?w=800",
+      "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=800",
+      "https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81?w=800"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/5f7dPqSUyBc"
+    ],
+    "audio_story_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "tags": ["Nature", "Coffee", "Eco-Tourism", "Hills"],
+    "best_season": "October to March",
+    "map_url": "https://www.google.com/maps?q=12.3375,75.8069",
+    "ar_model_url": "https://modelviewer.dev/shared-assets/models/NeilArmstrong.glb"
+  },
+  {
+    "id": "3",
+    "name": "Mysore Palace",
+    "category": "Cultural",
+    "description": "The magnificent Mysore Palace is one of India's most visited monuments. This architectural masterpiece showcases Indo-Saracenic style and comes alive during the famous Dasara festival with illuminated splendor.",
+    "eco_score": 78,
+    "latitude": 12.3051,
+    "longitude": 76.6551,
+    "images": [
+      "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800",
+      "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800",
+      "https://images.unsplash.com/photo-1633198775058-dd2c0b01f90f?w=800"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/gOc-DVJvEHo"
+    ],
+    "audio_story_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "tags": ["Palace", "Architecture", "Heritage", "Royal"],
+    "best_season": "October to February",
+    "map_url": "https://www.google.com/maps?q=12.3051,76.6551",
+    "ar_model_url": "https://modelviewer.dev/shared-assets/models/Astronaut.glb"
+  },
+  {
+    "id": "4",
+    "name": "Jog Falls",
+    "category": "Eco",
+    "description": "Jog Falls is one of the highest waterfalls in India, plunging 830 feet into a gorge. The monsoon season transforms this into a spectacular natural wonder, surrounded by dense forests and diverse wildlife.",
+    "eco_score": 88,
+    "latitude": 14.2295,
+    "longitude": 74.8125,
+    "images": [
+      "https://images.unsplash.com/photo-1520208422220-d12a3c588e6c?w=800",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/zK_7o_7eMpo"
+    ],
+    "audio_story_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "tags": ["Waterfall", "Nature", "Wildlife", "Adventure"],
+    "best_season": "July to September",
+    "map_url": "https://www.google.com/maps?q=14.2295,74.8125",
+    "ar_model_url": "https://modelviewer.dev/shared-assets/models/NeilArmstrong.glb"
+  },
+  {
+    "id": "5",
+    "name": "Gokarna Beach",
+    "category": "Adventure",
+    "description": "Gokarna is a serene coastal town featuring pristine beaches, ancient temples, and a laid-back atmosphere. Perfect for beach lovers, spiritual seekers, and adventure enthusiasts looking for cliff jumping and trekking.",
+    "eco_score": 80,
+    "latitude": 14.5426,
+    "longitude": 74.3188,
+    "images": [
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+      "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=800",
+      "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/QlbYrj1aTVA"
+    ],
+    "audio_story_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "tags": ["Beach", "Temple", "Adventure", "Sunset"],
+    "best_season": "October to March",
+    "map_url": "https://www.google.com/maps?q=14.5426,74.3188",
+    "ar_model_url": "https://modelviewer.dev/shared-assets/models/Astronaut.glb"
+  },
+  {
+    "id": "6",
+    "name": "Bandipur National Park",
+    "category": "Eco",
+    "description": "Bandipur National Park is a premier tiger reserve and biodiversity hotspot. Home to elephants, tigers, leopards, and over 200 bird species, it offers incredible wildlife safaris in the heart of the Western Ghats.",
+    "eco_score": 95,
+    "latitude": 11.6757,
+    "longitude": 76.5759,
+    "images": [
+      "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=800",
+      "https://images.unsplash.com/photo-1549366021-9f761d450615?w=800",
+      "https://images.unsplash.com/photo-1535083783855-76ae62b2914e?w=800"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/n0kXOT-9c3o"
+    ],
+    "audio_story_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "tags": ["Wildlife", "Safari", "Tigers", "Conservation"],
+    "best_season": "October to May",
+    "map_url": "https://www.google.com/maps?q=11.6757,76.5759",
+    "ar_model_url": "https://modelviewer.dev/shared-assets/models/NeilArmstrong.glb"
+  }
+]

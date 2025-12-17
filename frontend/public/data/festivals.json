@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Mysore Dasara",
+    "date": "September - October",
+    "description": "A grand 10-day festival celebrating the victory of good over evil. The Mysore Palace is illuminated with thousands of lights, and the city comes alive with processions, cultural programs, and the famous Jamboo Savari (elephant procession).",
+    "location": "Mysore",
+    "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800"
+  },
+  {
+    "id": "2",
+    "name": "Hampi Utsav",
+    "date": "November",
+    "description": "A vibrant cultural extravaganza held amidst the ancient ruins of Hampi. Features classical dance, music performances, puppet shows, and fireworks that bring the historical city back to life.",
+    "location": "Hampi",
+    "image": "https://images.unsplash.com/photo-1609920658906-8223bd289001?w=800"
+  },
+  {
+    "id": "3",
+    "name": "Karaga Festival",
+    "date": "March - April",
+    "description": "One of the oldest festivals of Bangalore, dedicated to Goddess Draupadi. Features a sacred procession where the priest balances a pyramid-shaped floral crown while walking through the streets.",
+    "location": "Bangalore",
+    "image": "https://images.unsplash.com/photo-1548017928-7c4e7c62aba2?w=800"
+  },
+  {
+    "id": "4",
+    "name": "Paryaya Festival",
+    "date": "January (Every 2 years)",
+    "description": "A unique festival in Udupi where the management of Krishna Temple is handed over to different monasteries in rotation. Marked by grand processions and cultural celebrations.",
+    "location": "Udupi",
+    "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800"
+  },
+  {
+    "id": "5",
+    "name": "Coorg Festival",
+    "date": "December",
+    "description": "Celebrates the rich culture and traditions of Coorg with folk dances, traditional music, sports events, and exhibitions showcasing coffee plantations and local crafts.",
+    "location": "Coorg",
+    "image": "https://images.unsplash.com/photo-1559496417-e7f25c62c5a6?w=800"
+  }
+]
